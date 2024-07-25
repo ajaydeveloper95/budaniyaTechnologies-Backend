@@ -1,0 +1,17 @@
+{
+  "name": "budaniya-technologies-backend",
+  "version": "1.0.0",
+  "description": "Backend of the budaniya technologies llp company backend with the profosinal with high level of folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "budaniyaTechnologies-Backend"
+  ],
+  "author": "Ajay Budaniya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
